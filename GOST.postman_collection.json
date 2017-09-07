@@ -30,7 +30,7 @@
 						],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n    \"name\": \"DS2\",\r\n    \"unitOfMeasurement\": {\r\n        \"symbol\": \"%\",\r\n        \"name\": \"Percentage\",\r\n        \"definition\": \"http://www.qudt.org/qudt/owl/1.0.0/unit/Instances.html\"\r\n    },\r\n  \"observationType\":\"http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement\",\r\n  \"description\": \"Temperature measurement\",\r\n  \"observedarea\": { \"type\": \"Polygon\",\r\n    \"coordinates\": [\r\n      [ [100.0, 0.0], [101.0, 0.0], [101.0, 1.0], [100.0, 1.0], [100.0, 0.0] ]\r\n      ]\r\n   },\r\n  \"Thing\": {\"@iot.id\": \"1\"},\r\n  \"ObservedProperty\": {\"@iot.id\": \"1\"},\r\n  \"Sensor\": {\"@iot.id\": \"1\"}\r\n}"
+							"raw": "{\r\n    \"name\": \"DS2\",\r\n    \"unitOfMeasurement\": {\r\n        \"symbol\": \"%\",\r\n        \"name\": \"Percentage\",\r\n        \"definition\": \"http://www.qudt.org/qudt/owl/1.0.0/unit/Instances.html\"\r\n    },\r\n  \"observationType\":\"http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement\",\r\n  \"description\": \"Temperature measurement\",\r\n  \"observedArea\": { \"type\": \"Polygon\",\r\n    \"coordinates\": [\r\n      [ [100.0, 0.0], [101.0, 0.0], [101.0, 1.0], [100.0, 1.0], [100.0, 0.0] ]\r\n      ]\r\n   },\r\n  \"Thing\": {\"@iot.id\": \"1\"},\r\n  \"ObservedProperty\": {\"@iot.id\": \"1\"},\r\n  \"Sensor\": {\"@iot.id\": \"1\"}\r\n}"
 						},
 						"description": ""
 					},
@@ -230,7 +230,7 @@
 						],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n    \"name\": \"DS1 (Patched)\",\r\n    \"unitOfMeasurement\": {\r\n        \"symbol\": \"&\",\r\n        \"name\": \"Patched\",\r\n        \"definition\": \"http://www.qudt.org/qudt/owl/1.0.0/unit/Patched.html\"\r\n    },\r\n  \"observationType\":\"http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement\",\r\n  \"description\": \"Patched measurement\",\r\n  \"observedarea\": { \"type\": \"Polygon\",\r\n    \"coordinates\": [\r\n      [ [0.0, 0.0], [0.0, 0.0], [0.0, 0.0], [0.0, 0.0], [0.0, 0.0] ]\r\n      ]\r\n   }\r\n}"
+							"raw": "{\r\n    \"name\": \"DS1 (Patched)\",\r\n    \"unitOfMeasurement\": {\r\n        \"symbol\": \"&\",\r\n        \"name\": \"Patched\",\r\n        \"definition\": \"http://www.qudt.org/qudt/owl/1.0.0/unit/Patched.html\"\r\n    },\r\n  \"observationType\":\"http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement\",\r\n  \"description\": \"Patched measurement\",\r\n  \"observedArea\": { \"type\": \"Polygon\",\r\n    \"coordinates\": [\r\n      [ [0.0, 0.0], [0.0, 0.0], [0.0, 0.0], [0.0, 0.0], [0.0, 0.0] ]\r\n      ]\r\n   }\r\n}"
 						},
 						"description": ""
 					},
@@ -280,7 +280,7 @@
 						],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n    \"name\": \"DS2\",\r\n    \"unitOfMeasurement\": {\r\n        \"symbol\": \"%\",\r\n        \"name\": \"Percentage\",\r\n        \"definition\": \"http://www.qudt.org/qudt/owl/1.0.0/unit/Instances.html\"\r\n    },\r\n  \"observationType\":\"http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement\",\r\n  \"description\": \"Temperature measurement\",\r\n  \"observedarea\": { \"type\": \"Polygon\",\r\n    \"coordinates\": [\r\n      [ [100.0, 0.0], [101.0, 0.0], [101.0, 1.0], [100.0, 1.0], [100.0, 0.0] ]\r\n      ]\r\n   },\r\n  \"Thing\": {\"@iot.id\": \"13\"},\r\n  \"ObservedProperty\": {\"@iot.id\": \"12\"},\r\n  \"Sensor\": {\"@iot.id\": \"13\"}\r\n}"
+							"raw": "{\r\n    \"name\": \"DS2\",\r\n    \"unitOfMeasurement\": {\r\n        \"symbol\": \"%\",\r\n        \"name\": \"Percentage\",\r\n        \"definition\": \"http://www.qudt.org/qudt/owl/1.0.0/unit/Instances.html\"\r\n    },\r\n  \"observationType\":\"http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement\",\r\n  \"description\": \"Temperature measurement\",\r\n  \"observedArea\": { \"type\": \"Polygon\",\r\n    \"coordinates\": [\r\n      [ [100.0, 0.0], [101.0, 0.0], [101.0, 1.0], [100.0, 1.0], [100.0, 0.0] ]\r\n      ]\r\n   },\r\n  \"Thing\": {\"@iot.id\": \"13\"},\r\n  \"ObservedProperty\": {\"@iot.id\": \"12\"},\r\n  \"Sensor\": {\"@iot.id\": \"13\"}\r\n}"
 						},
 						"description": ""
 					},
